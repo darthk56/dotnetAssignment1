@@ -18,6 +18,20 @@
     <link rel="stylesheet" href="client.css" />
 </head>
 <body>
+    <!-- toast -->
+    <div class="position-fixed bottom-0 right-0 p-3" style="z-index: 5; right: 0; bottom: 0;">
+        <div id="liveToast" class="toast hide" role="alert" aria-live="assertive" aria-atomic="true" data-delay="2000">
+          <div class="toast-header">
+            <strong class="mr-auto" id="ToastHeader">Product Name</strong>
+            <button type="button" class="ml-2 mb-1 close" data-dismiss="toast" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="toast-body" id="ToastBody">
+            Discount Code: <strong id="code">CODE</strong>
+          </div>
+        </div>
+    </div>
     <nav class="navbar navbar-expand-md navbar-dark bg-primary">
         
         <a class="navbar-brand" href="#"><i class="far fa-compass"></i> Northwind</a>
@@ -55,16 +69,45 @@
             </form>
         </div>
     </nav>
-    <div class="jumbotron container-fluid">
-        <h1 class="display-4">Hello, world!</h1>
-        <p class="lead">This is a test of the Jumbotron class in bootstrap</p>
+    <div class="jumbotron container-fluid mb-2">
+        <h1 class="display-4 logo">Northwind</h1>
+        <p class="lead">We have the best prices and selection of high quality food &amp; beverages on the planet! Check out our featured discounts below.</p>
         <hr class="my-4">
-        <p>Its using the fluid container class</p>
-        <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+        <p>For spectacular international quisine, look no further.</p>
+        <a class="btn btn-outline-primary btn-lg" href="#" role="button">Order now <i class="fas fa-angle-double-right"></i></a>
       </div>
-
+          <!-- grid -->
+    <div class="row container-fluid">
+        <div class="card col-md p-3 m-1">
+            <h3>Tis the seasoning</h3>
+            <div class="mb-4">
+                Order today! Save 12.5% on Chef Anton's Italian Seasoning.
+                You don't want to make Chef Anton mad, do you?
+            </div>
+            <i>Discount expires: 2/25/2024</i><br />
+            <a href="#" class="code" data-name="Italian Seasoning" data-codes="ITALIAN"><i class="far fa-hand-point-right"></i> Discount Code</a>
+        </div>
+        <div class="card col-md p-3 m-1">
+            <h3>Go Green</h3>
+            <div class="mb-4">
+                Genen Shouyu goes on sale very rarely. Order now to save 10% off our already low price.
+            </div>
+            <i>Discount expires: 2/25/2019</i><br />
+            <a href="#" class="code" data-name="Genen Shouyu" data-codes="SHOUYU"><i class="far fa-hand-point-right"></i> Discount Code</a>
+        </div>
+        <div class="card col-md p-3 m-1">
+            <h3>Half Price</h3>
+            <div class="mb-4">
+               Just because you can't pronounce "Schoggi Schokolade" doesnt mean you shouldn't buy it. Get it now for 50% off!
+            </div>
+            <i>Discount expires: 02/25/2019</i><br />
+            <a href="#" class="code" data-name="Schoggi Schokolade" data-codes="SCHOGGI"><i class="far fa-hand-point-right"></i> Discount Code</a>
+        </div>
+    </div>
 
     <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct" crossorigin="anonymous"></script>
+    <!-- custom js-->
+    <script src="client.js" type="application/javascript"></script>
 </body>
 </html>
