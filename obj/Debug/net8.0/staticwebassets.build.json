@@ -1,11 +1,39 @@
 {
   "Version": 1,
-  "Hash": "XOgUPuYZLt6yhNNiLUA3KiwoJhPgWNla2mV6CMZUelk=",
+  "Hash": "7EN2iQAziQuS1OsID8+sW+1kH9wV8c+ir9LEoa5dznU=",
   "Source": "dotnetAssignment1",
   "BasePath": "_content/dotnetAssignment1",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "dotnetAssignment1\\wwwroot",
+      "Source": "dotnetAssignment1",
+      "ContentRoot": "C:\\Users\\imorgan\\Documents\\northwind\\dotnetAssignment1\\wwwroot\\",
+      "BasePath": "_content/dotnetAssignment1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\imorgan\\Documents\\northwind\\dotnetAssignment1\\wwwroot\\client.css",
+      "SourceId": "dotnetAssignment1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\imorgan\\Documents\\northwind\\dotnetAssignment1\\wwwroot\\",
+      "BasePath": "_content/dotnetAssignment1",
+      "RelativePath": "client.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\client.css"
+    }
+  ]
 }

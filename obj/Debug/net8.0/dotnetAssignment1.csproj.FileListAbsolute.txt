@@ -130,3 +130,6 @@ C:\Users\imorgan\Documents\northwind\dotnetAssignment1\obj\Debug\net8.0\refint\d
 C:\Users\imorgan\Documents\northwind\dotnetAssignment1\obj\Debug\net8.0\dotnetAssignment1.pdb
 C:\Users\imorgan\Documents\northwind\dotnetAssignment1\obj\Debug\net8.0\dotnetAssignment1.genruntimeconfig.cache
 C:\Users\imorgan\Documents\northwind\dotnetAssignment1\obj\Debug\net8.0\ref\dotnetAssignment1.dll
+C:\Users\imorgan\Documents\northwind\dotnetAssignment1\obj\Debug\net8.0\dotnetAssignment1.RazorAssemblyInfo.cache
+C:\Users\imorgan\Documents\northwind\dotnetAssignment1\obj\Debug\net8.0\dotnetAssignment1.RazorAssemblyInfo.cs
+C:\Users\imorgan\Documents\northwind\dotnetAssignment1\bin\Debug\net8.0\dotnetAssignment1.staticwebassets.runtime.json

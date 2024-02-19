@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\imorgan\\Documents\\northwind\\dotnetAssignment1\\wwwroot\\client.css",
+      "PackagePath": "staticwebassets\\client.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.dotnetAssignment1.props",
+      "PackagePath": "build\\dotnetAssignment1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.dotnetAssignment1.props",
+      "PackagePath": "buildMultiTargeting\\dotnetAssignment1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.dotnetAssignment1.props",
+      "PackagePath": "buildTransitive\\dotnetAssignment1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.dotnetAssignment1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
