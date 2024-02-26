@@ -6,4 +6,12 @@ public class ProductController(DataContext db) : Controller
   private readonly DataContext _dataContext = db;
 
   public IActionResult Category() => View(_dataContext.Categories);
+
+
+  public IActionResult ProductDetail(int id) => View(new ProductViewModel
+  {
+    category = _dataContext.Categories.FirstOrDefault(c => c.CategoryId == id),
+    Products = _dataContext.Products.Where(p => p.CategoryId == id)
+  });
+
 }
