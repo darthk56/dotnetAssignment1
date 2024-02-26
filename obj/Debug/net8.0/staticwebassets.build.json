@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "eK5SsCbwX9rwjJqhYOLmaLgP7Mg+eyk4edQmlGhsewk=",
+  "Hash": "88H588Y+il4Tz0l8Vw4N67O5Y7U8tC7LANuhv85TcyM=",
   "Source": "dotnetAssignment1",
   "BasePath": "_content/dotnetAssignment1",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "dotnetAssignment1\\wwwroot",
       "Source": "dotnetAssignment1",
-      "ContentRoot": "C:\\Users\\imorgan\\Documents\\dotnet\\dotnetAssignment1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Isaac\\Documents\\dotnet\\dotnetAssignment1\\wwwroot\\",
       "BasePath": "_content/dotnetAssignment1",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\imorgan\\Documents\\dotnet\\dotnetAssignment1\\wwwroot\\client.css",
+      "Identity": "C:\\Users\\Isaac\\Documents\\dotnet\\dotnetAssignment1\\wwwroot\\client.css",
       "SourceId": "dotnetAssignment1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\imorgan\\Documents\\dotnet\\dotnetAssignment1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Isaac\\Documents\\dotnet\\dotnetAssignment1\\wwwroot\\",
       "BasePath": "_content/dotnetAssignment1",
       "RelativePath": "client.css",
       "AssetKind": "All",
