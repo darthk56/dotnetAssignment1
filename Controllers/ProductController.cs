@@ -14,4 +14,9 @@ public class ProductController(DataContext db) : Controller
     Products = _dataContext.Products.Where(p => p.CategoryId == id).Where(p => p.Discontinued == false)
   });
 
+  public IActionResult DiscountIndex(int id) => View(new DiscountViewModel
+  {
+    Discounts = _dataContext.Discounts.Where(d => d.StartTime <= DateTime.Now && d.EndTime > DateTime.Now)
+  });
+
 }
