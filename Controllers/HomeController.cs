@@ -1,9 +1,11 @@
 using Microsoft.AspNetCore.Mvc;
 
-public class HomeController() : Controller
+namespace Northwind.Controllers
 {
-  // this controller depends on the DataContext
-  // private readonly DataContext _dataContext = db;
-
-  public IActionResult Index() => View();
+    public class HomeController(DataContext db) : Controller
+    {
+        // this controller depends on the NorthwindRepository
+        private readonly DataContext _dataContext = db;
+        public ActionResult Index() => View(_dataContext.Discounts.Where(d => d.StartTime <= DateTime.Now && d.EndTime > DateTime.Now).Take(3));
+    }
 }

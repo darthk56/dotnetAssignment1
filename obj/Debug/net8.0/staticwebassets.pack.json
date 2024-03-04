@@ -1,8 +1,12 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Isaac\\Documents\\dotnet\\dotnetAssignment1\\wwwroot\\client.css",
+      "Id": "C:\\Users\\imorgan\\Documents\\dotnet\\NEWWW\\dotnetAssignment1\\wwwroot\\client.css",
       "PackagePath": "staticwebassets\\client.css"
+    },
+    {
+      "Id": "C:\\Users\\imorgan\\Documents\\dotnet\\NEWWW\\dotnetAssignment1\\wwwroot\\client.js",
+      "PackagePath": "staticwebassets\\client.js"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.dotnetAssignment1.props",
