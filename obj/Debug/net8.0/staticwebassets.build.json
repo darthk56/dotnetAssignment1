@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "GqanOf5UuzfGTdcxiXXHWmTJZy3tNw9fDkoU0dm3b40=",
+  "Hash": "EiSk7Lvm4eftioXl7ULf6JiQ4Do3Jxbh8TrsBbWDFjs=",
   "Source": "dotnetAssignment1",
   "BasePath": "_content/dotnetAssignment1",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "dotnetAssignment1\\wwwroot",
       "Source": "dotnetAssignment1",
-      "ContentRoot": "C:\\Users\\imorgan\\Documents\\dotnet\\NEWWW\\dotnetAssignment1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\imorgan\\Documents\\ffff\\dotnetAssignment1\\wwwroot\\",
       "BasePath": "_content/dotnetAssignment1",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\imorgan\\Documents\\dotnet\\NEWWW\\dotnetAssignment1\\wwwroot\\client.css",
+      "Identity": "C:\\Users\\imorgan\\Documents\\ffff\\dotnetAssignment1\\wwwroot\\client.css",
       "SourceId": "dotnetAssignment1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\imorgan\\Documents\\dotnet\\NEWWW\\dotnetAssignment1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\imorgan\\Documents\\ffff\\dotnetAssignment1\\wwwroot\\",
       "BasePath": "_content/dotnetAssignment1",
       "RelativePath": "client.css",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\client.css"
     },
     {
-      "Identity": "C:\\Users\\imorgan\\Documents\\dotnet\\NEWWW\\dotnetAssignment1\\wwwroot\\client.js",
+      "Identity": "C:\\Users\\imorgan\\Documents\\ffff\\dotnetAssignment1\\wwwroot\\client.js",
       "SourceId": "dotnetAssignment1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\imorgan\\Documents\\dotnet\\NEWWW\\dotnetAssignment1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\imorgan\\Documents\\ffff\\dotnetAssignment1\\wwwroot\\",
       "BasePath": "_content/dotnetAssignment1",
       "RelativePath": "client.js",
       "AssetKind": "All",
@@ -53,6 +53,44 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\client.js"
+    },
+    {
+      "Identity": "C:\\Users\\imorgan\\Documents\\ffff\\dotnetAssignment1\\wwwroot\\discount.js",
+      "SourceId": "dotnetAssignment1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\imorgan\\Documents\\ffff\\dotnetAssignment1\\wwwroot\\",
+      "BasePath": "_content/dotnetAssignment1",
+      "RelativePath": "discount.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\discount.js"
+    },
+    {
+      "Identity": "C:\\Users\\imorgan\\Documents\\ffff\\dotnetAssignment1\\wwwroot\\toast.wav",
+      "SourceId": "dotnetAssignment1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\imorgan\\Documents\\ffff\\dotnetAssignment1\\wwwroot\\",
+      "BasePath": "_content/dotnetAssignment1",
+      "RelativePath": "toast.wav",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\toast.wav"
     }
   ]
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\imorgan\\Documents\\dotnet\\NEWWW\\dotnetAssignment1\\dotnetAssignment1.csproj": {}
+    "C:\\Users\\imorgan\\Documents\\ffff\\dotnetAssignment1\\dotnetAssignment1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\imorgan\\Documents\\dotnet\\NEWWW\\dotnetAssignment1\\dotnetAssignment1.csproj": {
+    "C:\\Users\\imorgan\\Documents\\ffff\\dotnetAssignment1\\dotnetAssignment1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\imorgan\\Documents\\dotnet\\NEWWW\\dotnetAssignment1\\dotnetAssignment1.csproj",
+        "projectUniqueName": "C:\\Users\\imorgan\\Documents\\ffff\\dotnetAssignment1\\dotnetAssignment1.csproj",
         "projectName": "dotnetAssignment1",
-        "projectPath": "C:\\Users\\imorgan\\Documents\\dotnet\\NEWWW\\dotnetAssignment1\\dotnetAssignment1.csproj",
+        "projectPath": "C:\\Users\\imorgan\\Documents\\ffff\\dotnetAssignment1\\dotnetAssignment1.csproj",
         "packagesPath": "C:\\Users\\imorgan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\imorgan\\Documents\\dotnet\\NEWWW\\dotnetAssignment1\\obj\\",
+        "outputPath": "C:\\Users\\imorgan\\Documents\\ffff\\dotnetAssignment1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\imorgan\\AppData\\Roaming\\NuGet\\NuGet.Config",

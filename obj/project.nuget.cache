@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yJoqJkZjzKm4iFhmp5jqcBWnBPCsyJfsUWDGB8tr4eCCwicwFgMdgEwtBQxhsqpRD9lp9nzdYIfhT3qOoHaJVg==",
+  "dgSpecHash": "DkfivH9O1HbomymW2WLVyss6W3MApVoEKidKUCs2s5xp/mr4xV8z1gx3msJ0Tk48OvChFJj1IgZqSXf3uZavig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\imorgan\\Documents\\dotnet\\NEWWW\\dotnetAssignment1\\dotnetAssignment1.csproj",
+  "projectFilePath": "C:\\Users\\imorgan\\Documents\\ffff\\dotnetAssignment1\\dotnetAssignment1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\imorgan\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\imorgan\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

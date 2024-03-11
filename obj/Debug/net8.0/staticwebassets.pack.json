@@ -1,12 +1,20 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\imorgan\\Documents\\dotnet\\NEWWW\\dotnetAssignment1\\wwwroot\\client.css",
+      "Id": "C:\\Users\\imorgan\\Documents\\ffff\\dotnetAssignment1\\wwwroot\\client.css",
       "PackagePath": "staticwebassets\\client.css"
     },
     {
-      "Id": "C:\\Users\\imorgan\\Documents\\dotnet\\NEWWW\\dotnetAssignment1\\wwwroot\\client.js",
+      "Id": "C:\\Users\\imorgan\\Documents\\ffff\\dotnetAssignment1\\wwwroot\\client.js",
       "PackagePath": "staticwebassets\\client.js"
+    },
+    {
+      "Id": "C:\\Users\\imorgan\\Documents\\ffff\\dotnetAssignment1\\wwwroot\\discount.js",
+      "PackagePath": "staticwebassets\\discount.js"
+    },
+    {
+      "Id": "C:\\Users\\imorgan\\Documents\\ffff\\dotnetAssignment1\\wwwroot\\toast.wav",
+      "PackagePath": "staticwebassets\\toast.wav"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.dotnetAssignment1.props",

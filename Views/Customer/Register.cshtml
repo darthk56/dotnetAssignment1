@@ -1,0 +1,12 @@
+@model Customer
+
+<div class="bg-primary m-1 p-1 text-white"><h4>Add Customer</h4></div>
+<form method="post">
+    <div asp-validation-summary="All"></div>
+    <label asp-for="@Model.CompanyName">Company name: </label>
+    <input asp-for="@Model.CompanyName" placeholder="Company Name" />
+    <button type="submit">Add</button>
+</form>
+
+<hr />
+<a asp-controller="Home" asp-action="Index">Home</a>
